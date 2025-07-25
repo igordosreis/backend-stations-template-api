@@ -1,4 +1,4 @@
-import ITemplateUseCase from '@domain/case/global/giftCard/ITemplateUseCase';
+import ITemplateUseCase from '@domain/case/global/template/ITemplateUseCase';
 import TemplateRepository from '@infra/repository/template/TemplateRepository';
 import { Injectable } from '@nestjs/common';
 
